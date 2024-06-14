@@ -1,10 +1,10 @@
-### Toman Bike Data Analysis in Power BI
+# Toman Bike Data Analysis in Power BI
 - This project analyzes Toman bike data using SQL for data cleaning and Power BI for visualization.
 
-# Data Source
+### Data Source
 - The data source for this project is not specified. It likely originated from a database containing information about Toman bikes.
 
-# Data Cleaning
+### Data Cleaning
 - The initial data cleaning process was done using SQL. This may have involved tasks such as,
 - Handling missing values
 - Removing duplicates
@@ -12,7 +12,7 @@
 = Deriving new calculated fields
 = Data Visualization
 
-# Power BI was used to create various visualizations of the cleaned Toman bike data. The specific visualizations used include:
+### Power BI was used to create various visualizations of the cleaned Toman bike data. The specific visualizations used include:
 
 - Line Charts: Tracked trends and patterns over time hourly, daily, weekly, monthly bike usage.
 - Stacked Bar Charts: Compared multiple categories within a single dimension bike usage by rider type across locations.
